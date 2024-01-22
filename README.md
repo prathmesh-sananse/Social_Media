@@ -1,4 +1,4 @@
-# ConnectionMela
+# Connectify
 
 
 ![image](https://github.com/prathmesh-sananse/Social_Media/assets/113549833/14227a96-ea9a-492b-9b3a-a101bf667940)
